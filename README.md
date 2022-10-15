@@ -13,7 +13,7 @@ In todays worls stock market moves into technology field to enhance it.Like ML a
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![img](Nn1.png)
 
 ## DESIGN STEPS
 
